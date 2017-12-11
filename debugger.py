@@ -1,7 +1,7 @@
 import random
 
 def sort_list(my_list):
-    my_list = my_list.sort()
+    my_list.sort()
     return my_list
 
 if __name__ == '__main__':
